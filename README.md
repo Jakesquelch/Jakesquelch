@@ -1,33 +1,32 @@
-# Hi, I'm Jake 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9BD8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jake+%F0%9F%91%8B;CS+Student+%40+Aston+University;Software+Engineer;IBM+Placement+Alumni;Full-Stack+%7C+Backend+%7C+AI%2FML" alt="Typing SVG" />
+</div>
 
-I'm a Computer Science student at **Aston University** (graduating 2027, First Class throughout) with a passion for building clean, well-tested software. I've recently completed a year-long industrial placement at **IBM**, where I shipped production code for the open-source enterprise storage platform [Ceph](https://ceph.io/), and built full-stack tooling to manage clusters at scale.
 
-I enjoy working across the stack — from Angular frontends and FastAPI backends to C++ systems work and network protocols.
 
----
+````yaml
+name: Jake Squelch
+located_in: UK
+current_role: CS Student & Aspiring Software Engineer
+education: BSc Computer Science with Industrial Placement @ Aston University
+recently_at: IBM (Software Development Industrial Placement)
 
-## 🏢 Experience
+fields_of_interest:
+  [
+    "Full-Stack Development",
+    "Backend Engineering",
+    "AI & Machine Learning"
+  ]
 
-- **IBM** — Software Development Industrial Placement *(Jul 2025 – Jul 2026)*  
-  Production contributions to Ceph; built a full-stack cluster management app (Angular, FastAPI, SQLite, Podman); generated 50+ performance benchmarking reports analysing IOps and latency.
+technical_background:
+  [
+    "SWE Industrial Placement @ IBM (Ceph open-source storage)",
+    "Backend SWE @ Civico (C++, networking protocols)",
+  ]
 
-- **Civico** — Backend Software Engineer *(May – Sep 2024)*  
-  Built virtual Camera Control Units in C++ to enable hardware-independent testing, cutting physical hardware reliance by 85%. Achieved 96% unit test coverage with Catch2.
-
-- **Civico** — Software Engineer Intern *(Apr – May 2024)*  
-  Developed a Power over Ethernet calculator in C++ and improved an encoder monitoring tool, reducing system errors by 25%.
-
----
-
-## 🔨 Projects
-
-**[Pulse](https://github.com/Jakesquelch)** — *Angular · FastAPI · Python · TypeScript*  
-A full-stack productivity app with journaling, habit-tracking, and to-do modules. REST backend in Python, Angular standalone-component frontend, typed API layer, and a Vitest unit test suite.
-
-**Weather App** — *Java · Java Swing · Open-Meteo API*  
-A GUI weather application built with Java Swing, fetching live data from the Open-Meteo API with robust error handling and JSON parsing.
-
----
+currently_building: ["Pulse — a full-stack productivity app (Angular + FastAPI)"]
+currently_learning: ["Kubernetes", "Docker", "System Design"]
+````
 
 ## 🛠️ Tech Stack
 
