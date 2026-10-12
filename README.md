@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9BD8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jake+%F0%9F%91%8B;CS+Student+%40+Aston+University;Software+Engineer;IBM+Placement+Alumni;Full-Stack+%7C+Backend+%7C+AI%2FML" alt="Typing SVG" />
-</div>
-
-
-
 ````yaml
 name: Jake Squelch
 located_in: UK
